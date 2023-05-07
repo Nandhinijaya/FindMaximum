@@ -28,8 +28,8 @@ ii)	# To find the maximum marks using the list method max().
 ```Python
 ''' 
 Program to find the maximum marks using the list method max().
-Developed by: 
-RegisterNumber: 
+Developed by: E.NANDHINI
+RegisterNumber: 212222100030
 '''
 def max_marks(marks):
     large=max(marks)
@@ -42,8 +42,8 @@ iii) # To find the maximum marks without using builtin functions.
 ```Python
 ''' 
 Program to the maximum marks without using builtin functions.
-Developed by: 
-RegisterNumber: 
+Developed by: E.NANDHINI
+RegisterNumber: 212222100030
 '''
 def max_marks(list1):
     max=list1[0]
